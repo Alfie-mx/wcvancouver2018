@@ -43,7 +43,7 @@ body {
     padding-left: 2em; }
 
 html * {
-  font-family: DIN, Arial, sans-serif; }
+  font-family: "din-2014",sans-serif; }
 
 .site-header {
   padding-top: 60px;
